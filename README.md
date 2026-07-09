@@ -12,6 +12,11 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 
 ## 🚀 About Me
 
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
 - 🌱 Currently learning **HTML, CSS & JavaScript**
 - 🔥 Building modern responsive websites
 - 💼 Open to freelance web development projects
@@ -20,7 +25,18 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 - ⚡ Always learning new technologies
 - 📫 Reach me through my social media
 
-<br>
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320px">
+
+</td>
+
+</tr>
+</table>
+
+---
 
 # 🛠 Tech Stack
 
@@ -76,14 +92,10 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 
 # 🚀 Featured Projects
 
-🔹 Gym Landing Page
+- 🌐 Gym Landing Page
+- 💼 Portfolio Website
+- 🏢 Business Landing Page
+- 🍔 Restaurant Website
+- 🛒 E-commerce Landing Page
 
-🔹 Portfolio Website
-
-🔹 Modern Business Website
-
-🔹 Restaurant Website
-
-🔹 E-commerce Landing Page
-
-More projects coming soon...
+> More awesome projects coming soon...
