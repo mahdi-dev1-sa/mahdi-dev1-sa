@@ -1,14 +1,11 @@
-# Hey 👋, I'm Mahdi!
+# Hey 👋, I'm Mahdi
 
-### 💻 Frontend Web Developer | UI Enthusiast | Future Full Stack Developer
+### 💻 Frontend Web Developer | UI Designer | Future Full Stack Developer
 
-I'm a passionate web developer from Algeria 🇩🇿 who loves building modern, responsive, and user-friendly websites.
+I'm a passionate web developer from Algeria 🇩🇿.
+I enjoy building modern, responsive and user-friendly websites while continuously improving my skills.
 
-Currently, I'm focusing on mastering Frontend Development while expanding my skills toward becoming a Full Stack Developer.
-
-<br>
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+---
 
 ## 🚀 About Me
 
@@ -18,18 +15,18 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 <td width="60%" valign="top">
 
 - 🌱 Currently learning **HTML, CSS & JavaScript**
-- 🔥 Building modern responsive websites
-- 💼 Open to freelance web development projects
-- 🎯 Goal: Become a professional Full Stack Developer
-- 💡 Passionate about UI/UX and clean design
-- ⚡ Always learning new technologies
-- 📫 Reach me through my social media
+- 🚀 Building responsive websites
+- 💼 Available for freelance projects
+- 🎯 Goal: Become a Professional Full Stack Developer
+- 🎨 Passionate about UI/UX Design
+- ⚡ Love learning new technologies
+- 📚 Improving every single day
 
 </td>
 
 <td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320px">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
 
 </td>
 
@@ -43,30 +40,30 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
 </p>
 
-### Currently Learning
+### Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" />
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb"/>
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=mahdi-dev1-sa&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi-dev1-sa&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi-dev1-sa&layout=compact&theme=tokyonight)
 
 ---
 
@@ -74,17 +71,11 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 
 <p align="left">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/mahdi-dev1-sa">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
+<!-- أضف روابطك هنا -->
 
 </p>
 
@@ -92,10 +83,12 @@ Currently, I'm focusing on mastering Frontend Development while expanding my ski
 
 # 🚀 Featured Projects
 
-- 🌐 Gym Landing Page
+- 🌐 Gym Website
 - 💼 Portfolio Website
-- 🏢 Business Landing Page
-- 🍔 Restaurant Website
-- 🛒 E-commerce Landing Page
+- 🛍️ Landing Page
+- 🏢 Business Website
+- 🎨 UI Projects
 
-> More awesome projects coming soon...
+---
+
+### ⭐ Thanks for visiting my profile!
