@@ -69,16 +69,35 @@ I enjoy building modern, responsive and user-friendly websites while continuousl
 
 # 🌐 Connect With Me
 
+
+
 <p align="left">
 
-<a href="https://github.com/mahdi-dev1-sa">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://github.com/mahdi-dev1-sa" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- أضف روابطك هنا -->
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/YOUR_INSTAGRAM/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.gg/YOUR_INVITE">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </p>
-
 ---
 
 # 🚀 Featured Projects
